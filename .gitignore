@@ -1,0 +1,35 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Model Files
+*.pkl
+*.h5
+*.joblib
+
+# Data Files
+*.csv
+*.xlsx
+data/
+
+# Environment Variables
+.env
+config.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
